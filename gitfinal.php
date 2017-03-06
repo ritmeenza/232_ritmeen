@@ -1,0 +1,1 @@
+<? each "Hello today is Monday"?>
